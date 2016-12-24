@@ -1,2 +1,2 @@
-# php7
-Repository for PHP7 resources
+# PHP 7.x
+This is a repository for the latest PHP resources.
